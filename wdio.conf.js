@@ -21,7 +21,7 @@ exports.config = {
     // of the config file unless it's absolute.
     //
     specs: [
-        './test/saucedemo/login/login.js'
+        './test/saucedemo/logout/logout.js'
     ],
     // Patterns to exclude.
     exclude: [
