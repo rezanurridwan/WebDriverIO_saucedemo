@@ -21,7 +21,7 @@ exports.config = {
     // of the config file unless it's absolute.
     //
     specs: [
-        './test/saucedemo/product/description/description.js'
+        './test/saucedemo/product/add to cart/addtocart.js'
     ],
     // Patterns to exclude.
     exclude: [
