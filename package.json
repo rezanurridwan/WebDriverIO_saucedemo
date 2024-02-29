@@ -10,7 +10,8 @@
   "author": "reza nur ridwan",
   "license": "ISC",
   "dependencies": {
-    "@wdio/cli": "^8.32.3"
+    "@wdio/cli": "^8.32.3",
+    "chai": "^5.1.0"
   },
   "devDependencies": {
     "@wdio/local-runner": "^8.32.3",

@@ -78,9 +78,9 @@ describe('TS 3.1 Shortby', () => {
   it('TC 3.1.4 Filter product name high to low', async () => {
     const screenshotFolder = '.././__snapshots__';
     //screenshots after login
-    const screenshotFileNameA = 'TC3.1.4 Filter product name high to low Has Login.png';
-    const screenshotFileNameB = 'TC3.1.4 Filter product name high to low Filter.png';
-    const screenshotFileNameC = 'TC3.1.4 Filter product name high to low After filtered.png';
+    const screenshotFileNameA = 'TC 3.1.4 Filter product name high to low Has Login.png';
+    const screenshotFileNameB = 'TC 3.1.4 Filter product name high to low Filter.png';
+    const screenshotFileNameC = 'TC 3.1.4 Filter product name high to low After filtered.png';
     const screenshotPathA = path.join(__dirname, screenshotFolder, screenshotFileNameA);
     const screenshotPathB = path.join(__dirname, screenshotFolder, screenshotFileNameB);
     const screenshotPathC = path.join(__dirname, screenshotFolder, screenshotFileNameC);
